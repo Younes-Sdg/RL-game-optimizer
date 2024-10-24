@@ -1,1 +1,1 @@
-# RL_game_optimizer
+AI-powered tool for optimizing game theory strategies. (in progress)
