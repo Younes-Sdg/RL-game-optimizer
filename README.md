@@ -1,1 +1,1 @@
-AI-powered tool for optimizing game theory strategies. (in progress)
+AI-powered tool for optimizing decision-making. (in progress)
