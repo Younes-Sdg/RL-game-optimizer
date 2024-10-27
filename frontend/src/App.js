@@ -10,7 +10,7 @@ const App = () => {
     "I'm in a bidding war with 2 competitors for a contract worth $100,000",
     "Two companies are competing for market share in a new product launch",
     "A group of friends is deciding on a vacation destination with different preferences",
-    "Three restaurants are deciding whether to start a delivery service"
+    
   ];
 
   const handleAnalyze = () => {};
@@ -27,7 +27,7 @@ const App = () => {
     <div className={`container ${darkMode ? 'dark' : ''}`}>
       <div className="header">
         <Workflow className="lucide" style={{ color: '#3b82f6', width: '24px', height: '24px' }} />
-        <h1>Game Theory Analyzer</h1>
+        <h1>Strategy Optimizer</h1>
         <label className="toggle-slider">
           <input type="checkbox" checked={darkMode} onChange={toggleDarkMode} />
           <span className="slider"></span>
